@@ -1,4 +1,4 @@
-const assertArraysEqual = require("./AssertArrayEqual");
+const assertArraysEqual = require("./assertArraysEqual");
 
 const map = function(array, callback) {
   const results = [];
