@@ -10,5 +10,5 @@ const middle = function(array) {
       return arrayResult = [array[(array.length - 1) / 2]];
     }
   };
-  console.log(middle([]));
+ 
   module.exports = middle;
